@@ -20,7 +20,7 @@ I have done some works which apply deep learning techniques on document analysis
 Currently, I am focusing on the problem of vector font generation.
 
 ### Publications
-* **Yizhi Wang**, Zhouhui Lian. Exploring Font-independent Features for Scene Text Recognition. ACM Multimedia. 2020. (https://actasidiot.github.io/EFIFSTR)
+* **Yizhi Wang**, Zhouhui Lian. Exploring Font-independent Features for Scene Text Recognition. ACM Multimedia. 2020. [[Code](https://actasidiot.github.io/EFIFSTR)]
 
 * **Yizhi Wang**\*, Yue Gao\*, Zhouhui Lian. Attribute2Font: Creating Fonts You Want From Attributes. ACM Transactions on Graphics (SIGGRAPH 2020 Technical Paper). 2020. (* denotes equal contribution.) [[Code](https://hologerry.github.io/Attr2Font/)]
 
