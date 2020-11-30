@@ -1,6 +1,6 @@
 ## Welcome to Yizhi Wang's HomePage
 
-I am Yizhi Wang (王逸之), currently a PhD candidate in the Wangxuan Institute of Computer Technology (WICT), Peking University. I’m a member of the CSCL group at the Institute of Computer Science and Technology.
+I am Yizhi Wang (王逸之), currently a PhD candidate in the Wangxuan Institute of Computer Technology (WICT), Peking University.
 
 ### Experience
 
