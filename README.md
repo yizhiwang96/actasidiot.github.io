@@ -26,7 +26,7 @@ Currently, I am focusing on the problem of vector font generation.
 
 * Jie Chen, Zhouhui Lian, **Yizhi Wang**, Yingmin Tang, Jianguo Xiao. Irregular scene text detection via attention guided border labeling. Science China Information Sciences. 2019.
 
-* **Yizhi Wang**, Zhouhui Lian, Yingmin Tang, Jianguo Xiao. Font Recognition in Natural Images via Transfer Learning. International Conference on Multimedia Modeling. 2018. 
+* **Yizhi Wang**, Zhouhui Lian, Yingmin Tang, Jianguo Xiao. Font Recognition in Natural Images via Transfer Learning. International Conference on Multimedia Modeling. 2018. [[Dataset](https://www.wict.pku.edu.cn/zlian/frwild/)]
 
 * **Yizhi Wang**, Zhouhui Lian, Yingmin Tang, Jianguo Xiao. Boosting Scene Character Recognition by Learning Canonical Forms of Glyphs. International Journal on Document Analysis and Recognition. 2019.
 
