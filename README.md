@@ -32,6 +32,7 @@ Currently, I am focusing on the problem of vector font generation.
 
 
 ### Awards
+Excellent Student, Wangxuan Insitute of Peking University, 2020.
 
 Merit Student, Peking University, 2018
 
