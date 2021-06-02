@@ -1,6 +1,6 @@
 ## Welcome to Yizhi Wang's HomePage
 
-I am Yizhi Wang (王逸之), currently a PhD candidate in the Wangxuan Institute of Computer Technology (WICT), Peking University.
+I am Yizhi Wang (王逸之), currently a PhD candidate in the Wangxuan Institute of Computer Technology (WICT), Peking University. I am supervised by Prof. [[Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/]
 
 ### Experience
 
@@ -11,13 +11,13 @@ School of Electronic Engineering and Computer Science, Peking University
 School of Electronic Engineering and Computer Science, Peking University
 
 ### Research Interest
-My research interests focus on Computer Vision and Pattern Recognition.
-I have done some works which apply deep learning techniques on document analysis and recognition, including 
-* Font Recognition  
+I have strong interests in designing image/grahics generation models and facilitate visual recognition tasks with them.
+Specifically, my reseaching projects cover the following topics:
+* Glyph Image Synthesis and Vector Font Generation
 * Scene Text (Character) Recognition and Detection
-* Font Generation and Glyph Image Synthesis
+* Font Recognition
 
-Currently, I am focusing on the problem of vector font generation.
+Currently, I am focusing on the problem of automaic visual design (etc., posters/covers) via deep generative models.
 
 ### Publications
 * **Yizhi Wang**, Zhouhui Lian. Exploring Font-independent Features for Scene Text Recognition. ACM Multimedia. 2020. [[Code](https://actasidiot.github.io/EFIFSTR)]
