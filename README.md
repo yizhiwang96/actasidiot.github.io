@@ -1,6 +1,6 @@
 ## Welcome to Yizhi Wang's HomePage
 
-I am Yizhi Wang (王逸之), currently a PhD candidate in the Wangxuan Institute of Computer Technology (WICT), Peking University. I am supervised by Prof. [[Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/]
+I am Yizhi Wang (王逸之), currently a PhD candidate in the Wangxuan Institute of Computer Technology (WICT), Peking University. I am supervised by Prof. [[Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/)]
 
 ### Experience
 
