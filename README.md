@@ -11,7 +11,7 @@ School of Electronic Engineering and Computer Science, Peking University
 School of Electronic Engineering and Computer Science, Peking University
 
 ### Research Interest
-I have strong interests in designing image/graphics generation models and facilitate visual recognition tasks with them.
+I have strong interests in designing image/graphics generation models and facilitating visual recognition tasks with them.
 Specifically, my reseaching projects cover the following topics:
 * Glyph Image Synthesis and Vector Font Generation
 * Scene Text (Character) Recognition and Detection
