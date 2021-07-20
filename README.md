@@ -17,7 +17,7 @@ Specifically, my researching projects cover the following topics:
 * Scene Text (Character) Recognition and Detection
 * Font Recognition
 
-Currently, I am focusing on the problem of automatic visual design (etc., posters/covers) via deep generative models.
+Currently, I am focusing on the problem of automatic visual design (i.e., posters/covers) via deep generative models.
 
 ### Publications
 * **Yizhi Wang**, Zhouhui Lian. Exploring Font-independent Features for Scene Text Recognition. ACM Multimedia. 2020. [[Code](https://actasidiot.github.io/EFIFSTR)]
