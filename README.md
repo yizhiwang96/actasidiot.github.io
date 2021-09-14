@@ -20,6 +20,8 @@ Specifically, my researching projects cover the following topics:
 Currently, I am focusing on the problem of automatic visual design (i.e., posters/covers) via deep generative models.
 
 ### Publications
+* **Yizhi Wang**, Zhouhui Lian. DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning. ACM Transactions on Graphics (SIGGRAPH Asia 2021 Technical Paper). 2021. (More information will be available soon)
+
 * **Yizhi Wang**, Zhouhui Lian. Exploring Font-independent Features for Scene Text Recognition. ACM Multimedia. 2020. [[Code](https://actasidiot.github.io/EFIFSTR)]
 
 * **Yizhi Wang**\*, Yue Gao\*, Zhouhui Lian. Attribute2Font: Creating Fonts You Want From Attributes. ACM Transactions on Graphics (SIGGRAPH 2020 Technical Paper). 2020. (* denotes equal contribution.) [[Code](https://hologerry.github.io/Attr2Font/)]
